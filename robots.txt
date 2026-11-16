@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ol3-eletrica.vercel.app/sitemap.xml
